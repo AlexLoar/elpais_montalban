@@ -4,7 +4,7 @@ certifi==2019.6.16
 chardet==3.0.4
 idna==2.8
 pdfdocument==3.3
-Pillow==7.1.0
+Pillow==8.1.1
 reportlab==3.5.23
 requests==2.22.0
 soupsieve==1.9.3
